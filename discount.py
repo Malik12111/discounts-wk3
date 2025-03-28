@@ -8,4 +8,4 @@ original_price = 100
 discount = 20
 final_price = calculate_discount(original_price, discount)
 print(f"Final price: ${final_price:.2f}")
-# price =$75
+# price =$80
